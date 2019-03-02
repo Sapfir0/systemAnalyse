@@ -16,6 +16,8 @@ html {
     width: 600px;
     /* background-color: #fed6; */
     margin: 0 auto;
+    min-width: 350px;
+    max-width: 1200px;
     /* border: solid 3px; */
 }
 
@@ -40,6 +42,11 @@ h1 {
     font-weight: 300;
 }
 
+
+.custom-input {
+    
+}
+
 .sample {
     margin-bottom: 10px; 
     display: flex;
@@ -61,4 +68,5 @@ h1 {
     justify-content: center;
     align-items: center;
     background-color: red;
+    border-radius: 3px;
 }

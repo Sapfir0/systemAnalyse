@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1234,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa voluptates, dolorum praesentium maiores in reiciendis veritatis recusandae ut eligendi nemo, suscipit excepturi? Vel animi mollitia enim. Eum sequi sapiente architecto!",
+        "rightanswer": "a+b",
+        "samples": ["aaaa", "a", "abbbbb", "ab"]
+    },
+    {
+        "id": 3456,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium fugit dignissimos quas et quos assumenda maiores rem porro optio atque temporibus quam, cumque natus, illo aspernatur. Enim fuga debitis hic!",
+        "rightanswer": "a+b*c?",
+        "samples": ["aaaac", "a", "abbbbb", "abc", "abbbbc", "aabbc"]
+    }
+
+]
